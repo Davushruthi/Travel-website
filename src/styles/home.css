@@ -14,9 +14,11 @@
     color: var(--secondary-color);
 }
 .hero__content p{
-    font-size: 1.1rem;
+    font-style: italic;
+    font-size: x-large;
     color: var(--text-color);
     line-height: 2rem;
+    color:crimson;
 }
 
 .hero__img-box img, .hero__img-box video{
